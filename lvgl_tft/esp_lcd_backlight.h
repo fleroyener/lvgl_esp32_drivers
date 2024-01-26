@@ -9,6 +9,8 @@
  *      INCLUDES
  *********************/
 #include <stdbool.h>
+#include "rom/gpio.h"
+
 
 #ifdef __cplusplus
 extern "C" { /* extern "C" */

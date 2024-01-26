@@ -18,6 +18,7 @@ extern "C" {
 #include "lvgl_tft/disp_driver.h"
 #include "lvgl_tft/esp_lcd_backlight.h"
 #include "lvgl_touch/touch_driver.h"
+#define LV_HOR_RES_MAX 320
 
 /*********************
  *      DEFINES
